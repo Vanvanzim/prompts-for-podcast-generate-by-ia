@@ -30,6 +30,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Prompts gerados:
 1.Imagine.Art: Crie uma imagem que será usada como capa para um canal de podcast. A imagem precisa ser de uma flot de lotus, com traços coloridos nas pontas das pétalas e a flor deve estar envolta por uma delicada luz áurea violeta fraca, como se estivesse recebendo a incidência de iluminação solar, pela parte superior direita da imagem. A imagem precisa ser mais realista possível, utilize efeitos de luz, sombra e tridimensionais para isso.
+
 2.DeepSeek:
     a. Preciso iniciar um podcast que vai tratar sobre.rotinas ayurveda e yoga nos cuidados com a saúde física, mental e espiritual. Preciso que me sugira um título para esse podcast, que seja amigável e até um pouco divertido, e que tenha relação direta com o objetivo do podcast.
     b. Pode me apresentar mais sugestões, incluindo palavras ou expressoes em sancrito que remetam ao objeto do podcast?
